@@ -1,4 +1,4 @@
-# Save movieClip as a Image using createJS and Animate CC canvas document
+# Save/Download movieClip as a Image using createJS and Animate CC canvas document
 
 You can use the code (saveImage.js) on timeline of Animate CC canvas document to render save/download movile clip snapshot as a image file.
 
